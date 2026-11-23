@@ -13,7 +13,7 @@
 
 | OS | 入手方法 |
 |---|---|
-| Windows 10（1809 以降）/ 11 | [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest) のインストーラ（`TsuzuriEditor-Setup-<版>.exe`）・ポータブル版（`TsuzuriEditor-Portable-<版>-x64.zip`） |
+| Windows 10（1809 以降）/ 11 | **[Microsoft Store](https://apps.microsoft.com/detail/9NNHM52LT8RR)**（おすすめ。自動で更新されます）、または [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest) のインストーラ（`TsuzuriEditor-Setup-<版>.exe`）・ポータブル版（`TsuzuriEditor-Portable-<版>-x64.zip`） |
 | macOS 12 以降 | [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest) の dmg（Apple Silicon 用 `-arm64.dmg` / Intel 用 `-x64.dmg`） |
 
 インストーラ・ポータブル版・dmg はコード署名をしていないため、初回の起動時に Windows SmartScreen や macOS Gatekeeper の確認が出ます。許可の手順は、配布ファイルに入っている「はじめにお読みください」をご覧ください。
@@ -41,7 +41,7 @@
 
 This repository hosts the **downloads of Tsuzuri Editor** (no source code), a free, lightweight Markdown viewer and text editor. The user interface is available in Japanese and English.
 
-- **Windows 10 (1809+) / 11**: the installer or portable zip on [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest)
+- **Windows 10 (1809+) / 11**: **[Microsoft Store](https://apps.microsoft.com/detail/9NNHM52LT8RR)** (recommended; updates automatically), or the installer or portable zip on [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest)
 - **macOS 12+**: dmg on [Releases](https://github.com/propropg/tsuzuri-editor/releases/latest) (`-arm64` for Apple Silicon, `-x64` for Intel)
 
 Features: Markdown preview (tables, math, Mermaid diagrams, PDF export), a text editor with a column ruler and syntax highlighting for 100+ languages, Shift_JIS / EUC-JP / UTF-16 support, a WinDiff-style file compare, find in folder (Grep), tabs and multiple windows, and VS Code keyboard shortcuts.
